@@ -1,0 +1,41 @@
+.button-container button {
+   margin: 3px;
+ }
+
+ .flower-img{
+   height: 100px;
+   width: 100px;
+ }
+ 
+ .answer-button-container{
+  position: relative;
+  height: 100px;
+  width: 100px;
+ }
+
+ .answer-button-container img{
+  height: 100px;
+  width: 100px;
+ }
+
+.correct-button {
+  background-color: #00AA00;
+}
+
+.incorrect-button {
+  background-color: #AA0000;
+}
+
+ .answer-button-container .answer-button {
+  background-color: #BBBBBB;
+  opacity: 10%;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+
+
+.answer-button-container .btn:hover {
+  opacity: 50%;
+}
