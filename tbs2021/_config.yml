@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+=======
+domain: lemononmars.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://lemononmars.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+>>>>>>> 6f09f8fb5161688eb3d15a80a579d3cef9b5c77b
 baseurl: /puzzles/ 
